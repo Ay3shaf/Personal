@@ -1,1 +1,7 @@
-
+body {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQexEA6mLQ2PzYXqxmWz4BZhM1wcyJHM_OHkTguJrYReA&s=10");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  font-size: 2em;
+}
