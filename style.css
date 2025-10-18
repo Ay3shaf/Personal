@@ -5,4 +5,9 @@ body {
   color: white;
   font-size: 2em;
   text-align:center;
+  display:flex;
+
+h1 {
+  align-items:center;
+  justify-content:center;
 }
